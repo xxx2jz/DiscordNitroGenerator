@@ -9,5 +9,6 @@ Generates and Checks Discord Nitro Codes
 ## How to use
 
 - Install Python (https://www.python.org/downloads/)
+- Clone it or download zip
 - Go to the directory where you have the nitro generator located (cd Downloads>cd DiscordNitroGenerator-main>cd DiscordNitroGenerator) Then run it with (python main.py)
 - Also make sure to have all modules installed
